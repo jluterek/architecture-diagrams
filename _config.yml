@@ -9,4 +9,4 @@ include:
 title: [Architecture Diagram]
 description: [A set of random architecture diagrams used for blog posts, videos, or talks.]
 oogle_analytics: 
-theme: architect
+theme: jekyll-theme-architect
