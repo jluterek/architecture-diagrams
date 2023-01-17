@@ -6,5 +6,7 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-
-theme: jekyll-theme-architect
+title: [Architecture Diagram]
+description: [A set of random architecture diagrams used for blog posts, videos, or talks.]
+oogle_analytics: 
+theme: architect
